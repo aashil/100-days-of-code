@@ -8,14 +8,13 @@
 
 **Link to work:** [BFS Hackerrank](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/submissions/code/35084314)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: January 4, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Revised concepts of heap and used it's implementation in Java and Python.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I struggled with solving a particular problem on hackerrank utilizing Java Heap.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Heap Hackerrank](https://www.hackerrank.com/challenges/find-the-running-median)
 
 
 ### Day 1: June 27, Monday
