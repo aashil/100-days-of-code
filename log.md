@@ -16,13 +16,14 @@
 
 **Link(s) to work**: [Heap Hackerrank](https://www.hackerrank.com/challenges/find-the-running-median)
 
+### Day 2: January 6, 2017
 
-### Day 1: June 27, Monday
+**Today's Progress**: Solved first problem of Facebook Hackercup.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Link to work**: [Facebook HackerCup 2017](https://www.facebook.com/hackercup)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 3: January 7, 2017
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Today's Progress**: Done with all the problems of Facebook HackerCup. My code for the 3rd problem failed on the test input. Couldn't fix it in the 6 minute time slot.
+
+**Link to work**: [Facebook HackerCup 2017](https://www.facebook.com/hackercup)
