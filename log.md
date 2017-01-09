@@ -27,3 +27,7 @@
 **Today's Progress**: Done with all the problems of Facebook HackerCup. My code for the 3rd problem failed on the test input. Couldn't fix it in the 6 minute time slot.
 
 **Link to work**: [Facebook HackerCup 2017](https://www.facebook.com/hackercup)
+
+### Day 4: January 8, 2017
+
+**Today's Progress**: Spent time solving few challenges on Hackerrank.
