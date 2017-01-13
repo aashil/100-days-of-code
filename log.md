@@ -32,6 +32,6 @@
 
 **Today's Progress**: Spent time solving few challenges on Hackerrank.
 
-### Day 5, 6, 7: January 9-11, 2017
+### Day 5, 6, 7, 8: January 9-12, 2017
 
 **Today's Progress**: Spent time solving few challenges on Hackerrank. Took part in a competitive programming contest.
